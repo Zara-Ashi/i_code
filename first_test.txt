@@ -1,5 +1,5 @@
-ID
-Summery
-Precondition
-Steps
-Expected result
+ID 45ftf
+Summery Проверить header 
+Precondition mac ios
+Steps  войти, кликликнуть
+Expected result отображается корректно
