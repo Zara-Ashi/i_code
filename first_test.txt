@@ -1,5 +1,6 @@
 ID 45ftf
-Summery Проверить header 
+Summery Проверить кликабельность всех разделов в меню
 Precondition mac ios
-Steps  войти, кликликнуть
-Expected result отображается корректно
+Steps  1.Кликнуть на меню
+2.Нажать на все разделы в меню
+Expected result Разделы должны быть кликабельны
